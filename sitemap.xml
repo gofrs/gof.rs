@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gof.rs/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/projects/uuid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/contributing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/contributing/help-requests/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/contributing/join-requests/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gof.rs/</loc>
+  </url>
+  
+</urlset>
